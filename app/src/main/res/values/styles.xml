@@ -1,0 +1,11 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowSoftInputMode">stateHidden</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/color_primary_red</item>
+        <item name="colorPrimaryDark">@color/color_primary_red_dark</item>
+        <item name="colorAccent">@color/color_primary_red</item>
+        <item name="colorControlNormal">@color/color_white</item>
+    </style>
+</resources>
